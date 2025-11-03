@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pbix
+*.xlsx
+*.csv
+.DS_Store
